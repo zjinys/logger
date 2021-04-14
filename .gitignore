@@ -1,0 +1,16 @@
+tmp/
+.idea/
+dist/
+data/
+media/
+results/
+*.tar
+assets/
+kirin_release
+*.txt
+package/bin
+package/meta.json
+kylie.db
+package.tar
+spectrum_dir/
+result.txt
